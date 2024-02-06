@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionBank xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!-- Question 1 -->
+  <Question>
+    <Text>What is the capital of France?</Text>
+    <Answers>
+      <Answer key="a">Paris</Answer>
+      <Answer key="b">London</Answer>
+      <Answer key="c">Berlin</Answer>
+      <Answer key="d">Rome</Answer>
+    </Answers>
+    <CorrectAnswer>a</CorrectAnswer>
+  </Question>
+
+  <!-- Question 2 -->
+  <Question>
+    <Text>Who painted the Mona Lisa?</Text>
+    <Answers>
+      <Answer key="a">Pablo Picasso</Answer>
+      <Answer key="b">Leonardo da Vinci</Answer>
+      <Answer key="c">Vincent van Gogh</Answer>
+      <Answer key="d">Michelangelo</Answer>
+    </Answers>
+    <CorrectAnswer>b</CorrectAnswer>
+  </Question>
+
+  <!-- Question 3 -->
+  <Question>
+    <Text>What is the capital of Japan?</Text>
+    <Answers>
+      <Answer key="a">Beijing</Answer>
+      <Answer key="b">Tokyo</Answer>
+      <Answer key="c">Seoul</Answer>
+      <Answer key="d">Bangkok</Answer>
+    </Answers>
+    <CorrectAnswer>b</CorrectAnswer>
+  </Question>
+
+  <!-- Question 4 -->
+  <Question>
+    <Text>What is the chemical symbol for water?</Text>
+    <Answers>
+      <Answer key="a">O</Answer>
+      <Answer key="b">H2O</Answer>
+      <Answer key="c">W</Answer>
+      <Answer key="d">HO</Answer>
+    </Answers>
+    <CorrectAnswer>b</CorrectAnswer>
+  </Question>
+
+  <!-- Question 5 -->
+  <Question>
+    <Text>Who wrote 'Romeo and Juliet'?</Text>
+    <Answers>
+      <Answer key="a">William Shakespeare</Answer>
+      <Answer key="b">Charles Dickens</Answer>
+      <Answer key="c">Jane Austen</Answer>
+      <Answer key="d">Mark Twain</Answer>
+    </Answers>
+    <CorrectAnswer>a</CorrectAnswer>
+  </Question>
+
+  <!-- Question 6 -->
+  <Question>
+    <Text>What is the tallest mammal on Earth?</Text>
+    <Answers>
+      <Answer key="a">Elephant</Answer>
+      <Answer key="b">Giraffe</Answer>
+      <Answer key="c">Kangaroo</Answer>
+      <Answer key="d">Horse</Answer>
+    </Answers>
+    <CorrectAnswer>b</CorrectAnswer>
+  </Question>
+
+  <!-- Question 7 -->
+  <Question>
+    <Text>What year did the Titanic sink?</Text>
+    <Answers>
+      <Answer key="a">1912</Answer>
+      <Answer key="b">1905</Answer>
+      <Answer key="c">1921</Answer>
+      <Answer key="d">1933</Answer>
+    </Answers>
+    <CorrectAnswer>a</CorrectAnswer>
+  </Question>
+
+  <!-- Question 8 -->
+  <Question>
+    <Text>What is the largest planet in our solar system?</Text>
+    <Answers>
+      <Answer key="a">Venus</Answer>
+      <Answer key="b">Mars</Answer>
+      <Answer key="c">Jupiter</Answer>
+      <Answer key="d">Saturn</Answer>
+    </Answers>
+    <CorrectAnswer>c</CorrectAnswer>
+  </Question>
+
+  <!-- Question 9 -->
+  <Question>
+    <Text>Who wrote 'To Kill a Mockingbird'?</Text>
+    <Answers>
+      <Answer key="a">J.K. Rowling</Answer>
+      <Answer key="b">Harper Lee</Answer>
+      <Answer key="c">George Orwell</Answer>
+      <Answer key="d">Ernest Hemingway</Answer>
+    </Answers>
+    <CorrectAnswer>b</CorrectAnswer>
+  </Question>
+
+  <!-- Question 10 -->
+  <Question>
+    <Text>What is the chemical symbol for gold?</Text>
+    <Answers>
+      <Answer key="a">Ag</Answer>
+      <Answer key="b">Au</Answer>
+      <Answer key="c">Hg</Answer>
+      <Answer key="d">Pb</Answer>
+    </Answers>
+    <CorrectAnswer>b</CorrectAnswer>
+  </Question>
+
+  <!-- Question 11 -->
+  <Question>
+    <Text>What is the largest organ in the human body?</Text>
+    <Answers>
+      <Answer key="a">Brain</Answer>
+      <Answer key="b">Skin</Answer>
+      <Answer key="c">Heart</Answer>
+      <Answer key="d">Liver</Answer>
+    </Answers>
+    <CorrectAnswer>b</CorrectAnswer>
+  </Question>
+
+  <!-- Question 12 -->
+  <Question>
+    <Text>Who discovered penicillin?</Text>
+    <Answers>
+      <Answer key="a">Marie Curie</Answer>
+      <Answer key="b">Edward Jenner</Answer>
+      <Answer key="c">Joseph Lister</Answer>
+      <Answer key="d">Alexander Fleming</Answer>
+    </Answers>
+    <CorrectAnswer>d</CorrectAnswer>
+  </Question>
+
+  <!-- Question 13 -->
+  <Question>
+    <Text>What is the chemical symbol for potassium?</Text>
+    <Answers>
+      <Answer key="a">Pa</Answer>
+      <Answer key="b">Ko</Answer>
+      <Answer key="c">K</Answer>
+      <Answer key="d">Ka</Answer>
+    </Answers>
+    <CorrectAnswer>c</CorrectAnswer>
+  </Question>
+
+  <!-- Question 14 -->
+  <Question>
+    <Text>Who wrote '1984'?</Text>
+    <Answers>
+      <Answer key="a">George Orwell</Answer>
+      <Answer key="b">Aldous Huxley</Answer>
+      <Answer key="c">J.R.R. Tolkien</Answer>
+      <Answer key="d">Ray Bradbury</Answer>
+    </Answers>
+    <CorrectAnswer>a</CorrectAnswer>
+  </Question>
+
+  <!-- Question 15 -->
+  <Question>
+    <Text>What is the chemical symbol for silver?</Text>
+    <Answers>
+      <Answer key="a">S</Answer>
+      <Answer key="b">Ag</Answer>
+      <Answer key="c">Si</Answer>
+      <Answer key="d">Sl</Answer>
+    </Answers>
+    <CorrectAnswer>b</CorrectAnswer>
+  </Question>
+
+  <!-- Question 16 -->
+  <Question>
+    <Text>What is the capital of Australia?</Text>
+    <Answers>
+      <Answer key="a">Melbourne</Answer>
+      <Answer key="b">Sydney</Answer>
+      <Answer key="c">Canberra</Answer>
+      <Answer key="d">Brisbane</Answer>
+    </Answers>
+    <CorrectAnswer>c</CorrectAnswer>
+  </Question>
+  
+    <!-- Question 17 -->
+  <Question>
+    <Text>Who invented the telephone?</Text>
+    <Answers>
+      <Answer key="a">Thomas Edison</Answer>
+      <Answer key="b">Alexander Graham Bell</Answer>
+      <Answer key="c">Nikola Tesla</Answer>
+      <Answer key="d">Guglielmo Marconi</Answer>
+    </Answers>
+    <CorrectAnswer>b</CorrectAnswer>
+  </Question>
+
+  <!-- Question 18 -->
+  <Question>
+    <Text>What is the chemical symbol for carbon?</Text>
+    <Answers>
+      <Answer key="a">C</Answer>
+      <Answer key="b">Ca</Answer>
+      <Answer key="c">Co</Answer>
+      <Answer key="d">Cb</Answer>
+    </Answers>
+    <CorrectAnswer>a</CorrectAnswer>
+  </Question>
+
+  <!-- Question 19 -->
+  <Question>
+    <Text>Who painted 'The Starry Night'?</Text>
+    <Answers>
+      <Answer key="a">Vincent van Gogh</Answer>
+      <Answer key="b">Pablo Picasso</Answer>
+      <Answer key="c">Leonardo da Vinci</Answer>
+      <Answer key="d">Claude Monet</Answer>
+    </Answers>
+    <CorrectAnswer>a</CorrectAnswer>
+  </Question>
+
+  <!-- Question 20 -->
+  <Question>
+    <Text>What is the largest ocean on Earth?</Text>
+    <Answers>
+      <Answer key="a">Atlantic Ocean</Answer>
+      <Answer key="b">Indian Ocean</Answer>
+      <Answer key="c">Arctic Ocean</Answer>
+      <Answer key="d">Pacific Ocean</Answer>
+    </Answers>
+    <CorrectAnswer>d</CorrectAnswer>
+  </Question>
+
+  <!-- Question 21 -->
+  <Question>
+    <Text>Who is known as the 'Father of Modern Physics'?</Text>
+    <Answers>
+      <Answer key="a">Albert Einstein</Answer>
+      <Answer key="b">Isaac Newton</Answer>
+      <Answer key="c">Galileo Galilei</Answer>
+      <Answer key="d">Stephen Hawking</Answer>
+    </Answers>
+    <CorrectAnswer>a</CorrectAnswer>
+  </Question>
+
+  <!-- Question 22 -->
+  <Question>
+    <Text>What is the chemical symbol for oxygen?</Text>
+    <Answers>
+      <Answer key="a">O</Answer>
+      <Answer key="b">Ox</Answer>
+      <Answer key="c">Oxg</Answer>
+      <Answer key="d">Oxy</Answer>
+    </Answers>
+    <CorrectAnswer>a</CorrectAnswer>
+  </Question>
+
+  <!-- Question 23 -->
+  <Question>
+    <Text>Who wrote 'Pride and Prejudice'?</Text>
+    <Answers>
+      <Answer key="a">Jane Austen</Answer>
+      <Answer key="b">Emily Brontë</Answer>
+      <Answer key="c">Charlotte Brontë</Answer>
+      <Answer key="d">Agatha Christie</Answer>
+    </Answers>
+    <CorrectAnswer>a</CorrectAnswer>
+  </Question>
+
+  <!-- Question 24 -->
+  <Question>
+    <Text>What is the chemical symbol for helium?</Text>
+    <Answers>
+      <Answer key="a">He</Answer>
+      <Answer key="b">Hl</Answer>
+      <Answer key="c">Hel</Answer>
+      <Answer key="d">Hlum</Answer>
+    </Answers>
+    <CorrectAnswer>a</CorrectAnswer>
+  </Question>
+
+  <!-- Question 25 -->
+  <Question>
+    <Text>Who was the first female Prime Minister of the United Kingdom?</Text>
+    <Answers>
+      <Answer key="a">Margaret Thatcher</Answer>
+      <Answer key="b">Theresa May</Answer>
+      <Answer key="c">Indira Gandhi</Answer>
+      <Answer key="d">Angela Merkel</Answer>
+    </Answers>
+    <CorrectAnswer>a</CorrectAnswer>
+  </Question>
+
+  <!-- Question 26 -->
+  <Question>
+    <Text>What is the chemical symbol for sodium?</Text>
+    <Answers>
+      <Answer key="a">So</Answer>
+      <Answer key="b">Na</Answer>
+      <Answer key="c">Sd</Answer>
+      <Answer key="d">No</Answer>
+    </Answers>
+    <CorrectAnswer>b</CorrectAnswer>
+  </Question>
+
+  <!-- Question 27 -->
+  <Question>
+    <Text>Who wrote 'The Great Gatsby'?</Text>
+    <Answers>
+      <Answer key="a">F. Scott Fitzgerald</Answer>
+      <Answer key="b">Ernest Hemingway</Answer>
+      <Answer key="c">John Steinbeck</Answer>
+      <Answer key="d">William Faulkner</Answer>
+    </Answers>
+    <CorrectAnswer>a</CorrectAnswer>
+  </Question>
+
+  <!-- Question 28 -->
+  <Question>
+    <Text>What is the chemical symbol for iron?</Text>
+    <Answers>
+      <Answer key="a">Fe</Answer>
+      <Answer key="b">Ir</Answer>
+      <Answer key="c">Io</Answer>
+      <Answer key="d">In</Answer>
+    </Answers>
+    <CorrectAnswer>a</CorrectAnswer>
+  </Question>
+
+  <!-- Question 29 -->
+  <Question>
+    <Text>Who is credited with discovering gravity when an apple fell on his head?</Text>
+    <Answers>
+      <Answer key="a">Isaac Newton</Answer>
+      <Answer key="b">Galileo Galilei</Answer>
+      <Answer key="c">Albert Einstein</Answer>
+      <Answer key="d">Johannes Kepler</Answer>
+    </Answers>
+    <CorrectAnswer>a</CorrectAnswer>
+  </Question>
+
+  <!-- Question 30 -->
+  <Question>
+    <Text>What is the chemical symbol for lead?</Text>
+    <Answers>
+      <Answer key="a">L</Answer>
+      <Answer key="b">Ld</Answer>
+      <Answer key="c">Pb</Answer>
+      <Answer key="d">Pl</Answer>
+    </Answers>
+    <CorrectAnswer>c</CorrectAnswer>
+  </Question>
+</QuestionBank>

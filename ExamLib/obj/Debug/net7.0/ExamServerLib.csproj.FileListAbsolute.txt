@@ -1,0 +1,11 @@
+Z:\dev\FMI\ExamProjectCSharp\ExamServerLib\bin\Debug\net7.0\ExamServerLib.deps.json
+Z:\dev\FMI\ExamProjectCSharp\ExamServerLib\bin\Debug\net7.0\ExamServerLib.dll
+Z:\dev\FMI\ExamProjectCSharp\ExamServerLib\bin\Debug\net7.0\ExamServerLib.pdb
+Z:\dev\FMI\ExamProjectCSharp\ExamServerLib\obj\Debug\net7.0\ExamServerLib.GeneratedMSBuildEditorConfig.editorconfig
+Z:\dev\FMI\ExamProjectCSharp\ExamServerLib\obj\Debug\net7.0\ExamServerLib.AssemblyInfoInputs.cache
+Z:\dev\FMI\ExamProjectCSharp\ExamServerLib\obj\Debug\net7.0\ExamServerLib.AssemblyInfo.cs
+Z:\dev\FMI\ExamProjectCSharp\ExamServerLib\obj\Debug\net7.0\ExamServerLib.csproj.CoreCompileInputs.cache
+Z:\dev\FMI\ExamProjectCSharp\ExamServerLib\obj\Debug\net7.0\ExamServerLib.dll
+Z:\dev\FMI\ExamProjectCSharp\ExamServerLib\obj\Debug\net7.0\refint\ExamServerLib.dll
+Z:\dev\FMI\ExamProjectCSharp\ExamServerLib\obj\Debug\net7.0\ExamServerLib.pdb
+Z:\dev\FMI\ExamProjectCSharp\ExamServerLib\obj\Debug\net7.0\ref\ExamServerLib.dll

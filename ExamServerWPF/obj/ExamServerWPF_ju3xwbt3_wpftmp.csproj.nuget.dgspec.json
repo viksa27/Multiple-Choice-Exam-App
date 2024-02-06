@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\dev\\FMI\\ExamProjectCSharp\\ExamServerWPF\\ExamServerWPF.csproj": {}
+  },
+  "projects": {
+    "Z:\\dev\\FMI\\ExamProjectCSharp\\ExamServerLib\\ExamLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\dev\\FMI\\ExamProjectCSharp\\ExamServerLib\\ExamLib.csproj",
+        "projectName": "ExamLib",
+        "projectPath": "Z:\\dev\\FMI\\ExamProjectCSharp\\ExamServerLib\\ExamLib.csproj",
+        "packagesPath": "C:\\Users\\Andrijevski\\.nuget\\packages\\",
+        "outputPath": "Z:\\dev\\FMI\\ExamProjectCSharp\\ExamServerLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andrijevski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\dev\\FMI\\ExamProjectCSharp\\ExamServerWPF\\ExamServerWPF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\dev\\FMI\\ExamProjectCSharp\\ExamServerWPF\\ExamServerWPF.csproj",
+        "projectName": "ExamServerWPF",
+        "projectPath": "Z:\\dev\\FMI\\ExamProjectCSharp\\ExamServerWPF\\ExamServerWPF.csproj",
+        "packagesPath": "C:\\Users\\Andrijevski\\.nuget\\packages\\",
+        "outputPath": "Z:\\dev\\FMI\\ExamProjectCSharp\\ExamServerWPF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andrijevski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "Z:\\dev\\FMI\\ExamProjectCSharp\\ExamServerLib\\ExamLib.csproj": {
+                "projectPath": "Z:\\dev\\FMI\\ExamProjectCSharp\\ExamServerLib\\ExamLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "MessagePack": {
+              "target": "Package",
+              "version": "[2.5.140, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

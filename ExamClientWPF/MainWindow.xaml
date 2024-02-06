@@ -1,0 +1,18 @@
+﻿<Window x:Class="ExamClientWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Exam Client" Height="200" Width="300">
+    <Grid>
+        <StackPanel Margin="10">
+            <StackPanel Orientation="Vertical" Margin="0 0 0 10">
+                <TextBlock Text="Name:" VerticalAlignment="Center" FontSize="16" />
+                <TextBox x:Name="txtName" VerticalAlignment="Center" FontSize="16" />
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Margin="0 0 0 10">
+                <TextBlock Text="Server IP:" VerticalAlignment="Center" FontSize="16" />
+                <TextBox x:Name="txtServerIP" Text="localhost" VerticalAlignment="Center" FontSize="16" />
+            </StackPanel>
+            <Button Content="Start Exam" Click="StartExam_Click" FontSize="16" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,42 @@
+<Window x:Class="ExamServerWPF.QuestionEditorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Question Editor" Height="450" Width="600">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,5">
+            <Label Content="Question Text:" Grid.Row="0" FontWeight="Bold"/>
+            <TextBox x:Name="txtQuestion" Grid.Row="1" Margin="0,0,0,5" Width="380" Height="30" VerticalContentAlignment="Center"/>
+        </StackPanel>
+
+        <Label Content="Answers:" Grid.Row="2" FontWeight="Bold" Margin="0,10,0,5"/>
+        <StackPanel Grid.Row="3" Orientation="Horizontal" Margin="0,0,0,5">
+            <RadioButton x:Name="radAnswer0" Content="A" VerticalAlignment="Center" Margin="0,0,10,0" GroupName="AnswerGroup"/>
+            <TextBox x:Name="txtAnswer0" Margin="0,0,0,5" Width="380" Height="30" VerticalContentAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Grid.Row="4" Orientation="Horizontal" Margin="0,0,0,5">
+            <RadioButton x:Name="radAnswer1" Content="B" VerticalAlignment="Center" Margin="0,0,10,0" GroupName="AnswerGroup"/>
+            <TextBox x:Name="txtAnswer1" Margin="0,0,0,5" Width="380" Height="30" VerticalContentAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Grid.Row="5" Orientation="Horizontal" Margin="0,0,0,5">
+            <RadioButton x:Name="radAnswer2" Content="C" VerticalAlignment="Center" Margin="0,0,10,0" GroupName="AnswerGroup"/>
+            <TextBox x:Name="txtAnswer2" Margin="0,0,0,5" Width="380" Height="30" VerticalContentAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Grid.Row="6" Orientation="Horizontal" Margin="0,0,0,5">
+            <RadioButton x:Name="radAnswer3" Content="D" VerticalAlignment="Center" Margin="0,0,10,0" GroupName="AnswerGroup"/>
+            <TextBox x:Name="txtAnswer3" Margin="0,0,0,5" Width="380" Height="30" VerticalContentAlignment="Center"/>
+        </StackPanel>
+
+        <Button Content="Save" Grid.Row="7" Width="100" Height="30" Margin="0,20,0,0" Click="Save_Click"/>
+    </Grid>
+</Window>

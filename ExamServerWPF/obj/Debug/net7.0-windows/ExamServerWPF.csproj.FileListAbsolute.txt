@@ -1,0 +1,3 @@
+Z:\dev\FMI\ExamProjectCSharp\ExamServerWPF\bin\Debug\net7.0-windows\ExamServerWPF.exe
+Z:\dev\FMI\ExamProjectCSharp\ExamServerWPF\bin\Debug\net7.0-windows\ExamServerWPF.dll
+Z:\dev\FMI\ExamProjectCSharp\ExamServerWPF\bin\Debug\net7.0-windows\ExamLib.dll
