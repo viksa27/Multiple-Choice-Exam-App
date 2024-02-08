@@ -19,7 +19,8 @@ This project implements an exam system consisting of a server and a client appli
 ### Server Application
 
 1. Launch the server application.
-2. Add or import exam questions. *You can use Multiple-Choice-Exam-App/ExamServerWPF/bin/Debug/net7.0-windows/QuestionBank.xml as an example for importing format*
+2. Add or import exam questions.   
+*You can use Multiple-Choice-Exam-App/ExamServerWPF/bin/Debug/net7.0-windows/QuestionBank.xml as an example for importing format*
 3. Start an exam session.
 4. Monitor exam sessions and view results.
 
@@ -29,9 +30,10 @@ This project implements an exam system consisting of a server and a client appli
 2. Log in with student credentials.
 3. Take assigned exams.
 4. View exam results.
+
 *Note: the server must be already running before starting the exam*
 
 ## Configuration
 
-- **Server IP Address**: Configure the IP address of the server in the client application settings.**
-Note: if the server and client are on different computers, windows firewall should be configured to allow the connection*
+- **Server IP Address**: Configure the IP address of the server in the client application settings.  
+*Note: if the server and client are on different computers, windows firewall should be configured to allow the connection*
